@@ -3,7 +3,7 @@
 Welcome to my repository for **Level 1** of Databases. This is the **14th course** in my programming journey, marking the critical transition to robust data persistence and backend engineering using **PostgreSQL**.
 
 ## 🌐 Overview
-After building a solid foundation in system architecture, OOP engineering, Data Structures, and transitioning to C# (.NET), this phase focuses on mastering the core of modern applications: **Data Persistence and Design**. 
+After building a solid foundation in system architecture, OOP engineering, Data Structures, this phase focuses on mastering the core of modern applications: **Data Persistence and Design**. 
 
 This course treats databases as a core programming necessity. Mastering PostgreSQL correctly directly controls system performance, scalability, and stability. 
 
