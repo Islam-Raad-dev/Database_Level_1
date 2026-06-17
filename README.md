@@ -22,15 +22,6 @@ Learning SQL syntax without understanding architecture leads to performance bott
 * **Database Objects:** Utilizing Views for query abstraction and Indexes for high-speed data retrieval.
 * **Data Normalization:** Restructuring data mathematically to eliminate redundancy and prevent structural anomalies.
 
-## 📂 Repository Structure
-* **01_Database_Fundamentals:** Core concepts, redundancy, and system integrity.
-* **02_Conceptual_Design_ERD:** Drawing entities, attributes, and relationships.
-* **03_Logical_Design_Relational_Schema:** Standardizing ERDs to tables.
-* **04_PostgreSQL_DDL_Data_Definition:** `CREATE`, `ALTER`, `DROP` tables and specific constraints.
-* **05_PostgreSQL_DML_Data_Manipulation:** `INSERT`, `UPDATE`, `DELETE` records securely.
-* **06_PostgreSQL_Queries_and_Joins:** Advanced data retrieval and table joining logic.
-* **07_Views_Indexes_and_Performance:** Abstracting logic and boosting search execution.
-* **08_Database_Normalization:** Applying 1NF, 2NF, and 3NF protocols.
 
 ## 🛠️ Technologies Used
 * **Database Engine:** PostgreSQL
