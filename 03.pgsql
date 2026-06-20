@@ -5,3 +5,6 @@ ADD COLUMN PhoneNumber VARCHAR(15);
 
 ALTER TABLE Users 
 RENAME COLUMN Email TO UserEmail;
+
+ALTER TABLE Users 
+RENAME TO AppUsers;
