@@ -1,5 +1,8 @@
 -- DDL - Alter Table Statement
 
+
+-- Add Column
+
 ALTER TABLE Users 
 ADD COLUMN PhoneNumber VARCHAR(15);
 
