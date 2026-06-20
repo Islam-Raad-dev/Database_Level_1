@@ -18,6 +18,9 @@ RENAME COLUMN Email TO UserEmail;
 ALTER TABLE Users 
 RENAME TO AppUsers;
 
+-- Modify a column
+
+
 ALTER TABLE Users 
 ALTER COLUMN Age TYPE BIGINT;
 
