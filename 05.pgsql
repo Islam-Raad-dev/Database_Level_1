@@ -16,3 +16,9 @@ DELETE FROM users
 WHERE id = 1;
 
 -- Select Into Statement
+CREATE TABLE users_backup AS 
+SELECT id, username, email 
+FROM users 
+WHERE status = 'active';
+
+--
