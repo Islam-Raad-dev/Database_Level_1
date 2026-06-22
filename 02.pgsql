@@ -1,4 +1,4 @@
-INSERT INTO
+INSERT INTO   
     Employee (Name, Salary, ManagerID)
 VALUES
     ('اسلام رعد', 7500.00, NULL);
