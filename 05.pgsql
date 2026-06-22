@@ -14,3 +14,5 @@ WHERE id = 1;
 -- Delete Statement
 DELETE FROM users 
 WHERE id = 1;
+
+-- Select Into Statement
