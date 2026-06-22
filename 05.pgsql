@@ -21,4 +21,4 @@ SELECT id, username, email
 FROM users 
 WHERE status = 'active';
 
---
+-- Insert Into ..Select From Statement
