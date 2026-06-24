@@ -1,5 +1,4 @@
--- 
-
+-- DQL - Data Query Language
 
 
 -- Select Statement
