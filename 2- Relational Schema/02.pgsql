@@ -1,7 +1,7 @@
 -- 
 
 Relational Schema
-
+ 
 1. **Blueprint Architecture:** A relational schema is the definitive structural framework of a database. It defines tables, attributes, and constraints, entirely independent of the physical data it will eventually store.
 
 2. **Relation (Table):** The absolute core container of structured data. Example: `benthic_glider_telemetry` (a specialized data set), avoiding cliché structures like 'employees' or 'customers'.
