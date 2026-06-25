@@ -1,6 +1,18 @@
 -- DDL - Data Definition Language
-          
-   
+
+
+-- Create Table
+
+
+CREATE TABLE Users(
+    ID INT ,
+    NAME VARCHAR(50),
+    EMAIL VARCHAR(50),
+    AGE INT
+    PRIMARY KEY(ID)
+);
+
+
 -- Add Column
 
 ALTER TABLE Users 
