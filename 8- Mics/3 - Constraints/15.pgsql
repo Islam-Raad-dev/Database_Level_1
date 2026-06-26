@@ -6,3 +6,5 @@ CREATE TABLE Employees (
     hiredate DATE DEFAULT CURRENT_DATE,
     PRIMARY KEY (id)
 );
+
+-- INDEX Constraint
