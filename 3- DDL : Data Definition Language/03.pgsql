@@ -5,12 +5,20 @@
 
 
 CREATE TABLE Users(
-    ID INT ,
+    ID INT,
     NAME VARCHAR(50),
     EMAIL VARCHAR(50),
     AGE INT
     PRIMARY KEY(ID)
 );
+
+
+-- Create View
+
+
+CREATE VIEW HighSalary AS
+SELECT * FROM CUSTOMERS C 
+WHERE SALARY > 2000
 
 
 -- Add Column
