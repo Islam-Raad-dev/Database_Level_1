@@ -29,3 +29,12 @@ WHEN EXISTS ( SELECT 1 FROM customers WHERE salary > 6000
 ) THEN 'YES'
 ELSE 'NO'
 END AS "Result";
+
+-- Union Statement
+SELECT * FROM employee
+UNION
+SELECT * FROM order
+
+SELECT * FROM employee
+UNION ALL
+SELECT * FROM order
