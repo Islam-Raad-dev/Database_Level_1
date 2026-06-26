@@ -1,4 +1,4 @@
--- Constraints
+-- Constraints Types
 
 
 -- The following constraints are commonly used in SQL:
