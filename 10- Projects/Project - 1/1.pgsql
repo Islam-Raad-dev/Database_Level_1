@@ -1,5 +1,5 @@
 
--- Simple Clinic Database
+-- Clinic Database
 
 -- Requirments:
 
