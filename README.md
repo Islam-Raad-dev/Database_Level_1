@@ -1,6 +1,6 @@
-# Database – Level 1 (PostgreSQL: Concepts & Practice)
+# Database – PostgreSQL: Concepts & Practice 
 
-Welcome to my repository for **Level 1** of Databases. This is the **14th course** in my programming journey, marking the critical transition to robust data persistence and backend engineering using **PostgreSQL**.
+Welcome to my repository for Databases in PostgreSQL. This is the **14th & 15th course's** in my programming journey, marking the critical transition to robust data persistence and backend engineering using **PostgreSQL**.
 
 ## 🌐 Overview
 After building a solid foundation in system architecture, OOP engineering, and Data Structures, this phase focuses on mastering the core of modern applications: **Data Persistence and Design**. 
@@ -23,6 +23,7 @@ Learning SQL syntax without understanding architecture leads to performance bott
 * **Data Normalization:** Restructuring data mathematically to eliminate redundancy and prevent structural anomalies.
 
 ## 📂 Repository Structure
+* **0_Projects:** Real-world database design implementations and capstone queries.
 * **01_Entity-Relationship Diagrams:** Core concepts, redundancy, and system integrity.
 * **02_Relational Schema:** Drawing entities, attributes, and relationships.
 * **03_DDL : Data Definition Language:** `CREATE`, `ALTER`, and `DROP` tables and specific constraints.
@@ -30,9 +31,8 @@ Learning SQL syntax without understanding architecture leads to performance bott
 * **05_DQL : Data Query Language:** Advanced data retrieval and table joining logic using `SELECT`.
 * **06_DCL : Data Control Language:** Managing access permissions via `GRANT` and `REVOKE`.
 * **07_TCL : Transaction Control Language:** Abstracting logic with `COMMIT` and `ROLLBACK`.
-* **08_Misc:** Joins, Constraints, and Normalization.
+* **08_Misc:** Joins, Constraints, GUID, and Normalization.
 * **09_SQL Problem:** Filtering, Complex joins, Subqueries, views,EXISTS, CASE, UNION, and conditional logic
-* **10_Projects:** Real-world database design implementations and capstone queries.
 
 ## 🛠️ Technologies Used
 * **Database Engine:** PostgreSQL
