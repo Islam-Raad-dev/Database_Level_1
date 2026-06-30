@@ -1,0 +1,6 @@
+-- Buy And Import Data
+
+COPY (Table NAME)(TABLE ATTRIBUTES, TABLE ATTRIBUTES, TABLE ATTRIBUTES)
+FROM '/path/to/your/data.csv'
+DELIMITER ','
+CSV HEADER;
